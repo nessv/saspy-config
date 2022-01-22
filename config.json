@@ -1,5 +1,73 @@
 {
   "config": {
-    
+    "courier": [
+      {
+        "id": "1",
+        "name": "Amazon",
+        "filters": []
+      },
+      {
+        "id": "2",
+        "name": "Pick Up",
+        "filters": []
+      },
+      {
+        "id": "4",
+        "name": "Fedex",
+        "filters": []
+      },
+      {
+        "id": "5",
+        "name": "90 Minutos",
+        "filters": []
+      },
+      {
+        "id": "6",
+        "name": "Dhl",
+        "filters": []
+      },
+      {
+        "id": "27",
+        "name": "Proveedor en Puerta",
+        "filters": []
+      },
+      {
+        "id": "33",
+        "name": "Tnt",
+        "filters": []
+      },
+      {
+        "id": "35",
+        "name": "Lasership",
+        "filters": [
+          {
+            "regex": "",
+            "contains": "",
+            "type": "REGEX"
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "name": "Usps",
+        "filters": []
+      },
+      {
+        "id": "80",
+        "name": "Clientes en Puerta",
+        "filters": []
+      },
+      {
+        "id": "81",
+        "name": "Ups",
+        "filters": [
+          {
+            "regex": "",
+            "contains": "",
+            "type": "REGEX"
+          }
+        ]
+      }
+    ]
   }
 }
