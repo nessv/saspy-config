@@ -56,8 +56,7 @@
         "name": "Ups",
         "filters": [
           {
-            "regex": "",
-            "contains": "1Z",
+            "value": "1Z",
             "type": "CONTAINS"
           }
         ]
