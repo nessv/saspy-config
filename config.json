@@ -4,62 +4,57 @@
       {
         "id": "1",
         "name": "Amazon",
-        "filters": []
+        "filters": null
       },
       {
         "id": "2",
         "name": "Pick Up",
-        "filters": []
+        "filters": null
       },
       {
         "id": "4",
         "name": "Fedex",
-        "filters": []
+        "filters": null
       },
       {
         "id": "5",
         "name": "90 Minutos",
-        "filters": []
+        "filters": null
       },
       {
         "id": "6",
         "name": "Dhl",
-        "filters": []
+        "filters": null
       },
       {
         "id": "27",
         "name": "Proveedor en Puerta",
-        "filters": []
+        "filters": null
       },
       {
         "id": "33",
         "name": "Tnt",
-        "filters": []
+        "filters": null
       },
       {
         "id": "35",
         "name": "Lasership",
-        "filters": []
+        "filters": null
       },
       {
         "id": "47",
         "name": "Usps",
-        "filters": []
+        "filters": null
       },
       {
         "id": "80",
         "name": "Clientes en Puerta",
-        "filters": []
+        "filters": null
       },
       {
         "id": "81",
         "name": "Ups",
-        "filters": [
-          {
-            "value": "1Z",
-            "type": "CONTAINS"
-          }
-        ]
+        "filters": "[1|2]Z[a-zA-Z0-9]*"
       }
     ]
   }
