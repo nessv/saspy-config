@@ -54,7 +54,7 @@
       {
         "id": "81",
         "name": "Ups",
-        "filters": "[1|2]Z[a-zA-Z0-9]*"
+        "filters": "1Z[a-zA-Z0-9]*"
       }
     ]
   }
