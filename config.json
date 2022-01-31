@@ -44,7 +44,7 @@
       {
         "id": "47",
         "name": "Usps",
-        "filters": null
+        "filters": "[a-zA-Z0-9]*42033178[a-zA-Z0-9]*"
       },
       {
         "id": "80",
