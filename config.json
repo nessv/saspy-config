@@ -55,6 +55,11 @@
         "id": "81",
         "name": "Ups",
         "filters": "1Z[a-zA-Z0-9]*"
+      },
+      {
+        "id": "159",
+        "name": "Aliexpress"
+        "filters": null
       }
     ]
   }
